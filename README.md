@@ -1,0 +1,1 @@
+# clevo-fan-control
